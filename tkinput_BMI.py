@@ -2,7 +2,8 @@ import tkinter as tk
 from PIL import ImageTk, Image
 from tkinter import StringVar
 from tkinter import ttk
-
+# 柯老師到此一遊
+# 柯老師到此一遊 ver 2
 
 def compute():
     global entry1 #身高
