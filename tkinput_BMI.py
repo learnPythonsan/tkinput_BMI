@@ -4,6 +4,7 @@ from tkinter import StringVar
 from tkinter import ttk
 # 柯老師到此一遊
 # 柯老師到此一遊 ver 2
+# 柯老師到此一遊 ver 3
 
 def compute():
     global entry1 #身高
